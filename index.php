@@ -30,7 +30,7 @@
             <input type="email" name="email" placeholder="E-mail" class="form-control" required>
           </div>
           <div class="d-grid">
-            <button type="submit" class="btn btn-primary">Sign Up</button>
+            <button type="submit" class="btn btn-primary">Create Account</button>
           </div>
         </form>
       </div>
